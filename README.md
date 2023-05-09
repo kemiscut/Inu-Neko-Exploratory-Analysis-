@@ -3,7 +3,7 @@ Inu+Neko are a pet supply and services company that just started an e-commerce b
 
 ![](images_1.png)
 
-Inu and Neko had a lot of success with a marketing campaign and is seeing a lot of growth. The company wants to know how these new incoming customers differ from their past consumers. Are there different The stakeholders wants to know if there are different items they should stock more of and other things they should consider.
+Inu and Neko had a lot of success with a marketing campaign and is seeing a lot of growth. The company wants to know how these new incoming customers differ from their past consumers. Are there difference? The stakeholders wants to know if there are different items they should stock more of and other things they should consider.
 
 ## Exploring Inu+Neko Sales Data
 The data provided has been cleaned up. They are the sales numbers for Inu+Neko over a 6 month period. 
